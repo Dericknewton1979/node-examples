@@ -1,4 +1,3 @@
-// const rect = require("./rectangle");
 import rect from "./rectangle.js";
 
 function solveRect(l, w) {
